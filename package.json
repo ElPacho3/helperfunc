@@ -1,0 +1,23 @@
+{
+  "name": "helperfunc_elp",
+  "version": "1.0.0",
+  "description": "Added helper function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElPacho3/helperfunc_elp.git"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.0",
+    "firstregisteredpr": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElPacho3/helperfunc_elp/issues"
+  },
+  "homepage": "https://github.com/ElPacho3/helperfunc_elp#readme"
+}
